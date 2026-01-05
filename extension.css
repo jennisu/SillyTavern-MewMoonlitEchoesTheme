@@ -158,13 +158,13 @@ body.waifuMode:has(#extensionTopBar) {
 
     @media screen and (max-width: 1000px) {
         /*top: var(--topBarBlockSize) !important;*/
-        top: calc(var(--topBarBlockSize) + 5px) !important;
+        top: calc(var(--topBarBlockSize) + 10px) !important;
         width: 95% !important;
         /*border-radius: 0 !important;*/
         opacity: 0.8;
         border: none !important;
-        border-top: 1px solid color-mix(in srgb, var(--SmartThemeBodyColor) 50%, transparent) !important;
-        border-bottom: 1px solid color-mix(in srgb, var(--SmartThemeBodyColor) 25%, transparent) !important;
+        /*border-top: 1px solid color-mix(in srgb, var(--SmartThemeBodyColor) 50%, transparent) !important;*/
+        /*border-bottom: 1px solid color-mix(in srgb, var(--SmartThemeBodyColor) 25%, transparent) !important;*/
     }
 }
 body:has(#extensionConnectionProfiles.visible) #extensionTopBar {
@@ -242,9 +242,10 @@ body.waifuMode:has(#extensionConnectionProfiles.visible) #extensionTopBar {
         width: 95% !important;
         /*border-radius: 0 !important;*/
         border: none !important;
-        border-bottom: 1px solid color-mix(in srgb, var(--SmartThemeBodyColor) 25%, transparent) !important;
+        /*border-bottom: 1px solid color-mix(in srgb, var(--SmartThemeBodyColor) 25%, transparent) !important;*/
         margin-left: 0;
         margin-top: 0 !important;
+        margin-bottom: 10px !important;
         opacity: 0.65;
     }
 }
