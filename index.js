@@ -1,5 +1,5 @@
 /**
- * Moonlit Echoes Theme for SillyTavern
+ * Mew Moonlit Echoes Theme for SillyTavern
  * A beautiful theme with extensive customization options
  */
 
