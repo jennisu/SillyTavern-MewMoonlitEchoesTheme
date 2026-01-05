@@ -1,5 +1,5 @@
 {
-    "display_name": "Moonlit Echoes Mew Theme",
+    "display_name": "Mew Moonlit Echoes Theme",
     "description": "A modern, minimalist, and elegant theme for SillyTavern. Inspired by moonlit nights and gentle echoes of serenity.",
     "loading_order": 10,
     "requires": [],
@@ -8,7 +8,7 @@
     "author": "Rivelle - jennisu MOD",
     "version": "3.0.0",
     "license": "AGPL-3.0",
-    "homepage": "https://github.com/RivelleDays/SillyTavern-MoonlitEchoesMewTheme",
+    "homepage": "https://github.com/jennisu/SillyTavern-MewMoonlitEchoesTheme",
     "auto_update": true,
     "i18n": {
         "zh-tw": "i18n/zh-tw.json",
