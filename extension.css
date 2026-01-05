@@ -160,10 +160,10 @@ body.waifuMode:has(#extensionTopBar) {
         /*top: var(--topBarBlockSize) !important;*/
         top: calc(var(--topBarBlockSize) + 10px) !important;
         width: 97% !important;
-        bottom: auto;
+        margin-bottom: 10px !important;
         /*border-radius: 0 !important;*/
         opacity: 0.8;
-        border: none !important;
+        /*border: none !important;*/
         /*border-top: 1px solid color-mix(in srgb, var(--SmartThemeBodyColor) 50%, transparent) !important;*/
         /*border-bottom: 1px solid color-mix(in srgb, var(--SmartThemeBodyColor) 25%, transparent) !important;*/
     }
