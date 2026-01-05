@@ -157,7 +157,8 @@ body.waifuMode:has(#extensionTopBar) {
     transition: all 0.8s ease;
 
     @media screen and (max-width: 1000px) {
-        top: var(--topBarBlockSize) !important;
+        /*top: var(--topBarBlockSize) !important;*/
+        top: calc(var(--topBarBlockSize) + 5px) !important;
         width: 95% !important;
         /*border-radius: 0 !important;*/
         opacity: 0.8;
